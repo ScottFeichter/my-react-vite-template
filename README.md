@@ -51,7 +51,7 @@ VITE v4.5.0  ready in 592 ms
 
 - Or type `o` in running shell
 
-* You should see `Hello from App`
+  - You should see `Hello from App`
 
 ## Change Or Convert Files
 
