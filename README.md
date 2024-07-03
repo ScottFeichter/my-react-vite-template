@@ -20,7 +20,7 @@ git add .
 git commit -m "initial"
 ```
 
-- .gitignore already provided in the clone.
+- The .gitignore is already provided in the clone.
 
 ## How To Install
 
