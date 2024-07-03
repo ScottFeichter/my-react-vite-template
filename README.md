@@ -70,12 +70,15 @@ VITE v4.5.0  ready in 592 ms
 ## Change Or Convert Files
 
 __index.html__
+
 - change `title`
 
 __package.json__
+
 - change `"name"`
 
 __README.md__
+
 - customize to the project
 
 ## How To Track
@@ -85,7 +88,7 @@ From root run:
 ```sh
 git init
 git add .
-git commit -m "npm install, adjusted index.html <title> and package.json "name""
+git commit -m "completed setup"
 ```
 
 ## Here is some info from the previous README.md
