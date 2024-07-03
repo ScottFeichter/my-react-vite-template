@@ -9,7 +9,6 @@ npx tiged https://github.com/ScottFeichter/my-react-vite-template.git react-vite
 ```
 
 - This clones repo main branch in the directory where it is run.
-- Change the end of above command from \"react-vite-template\" to your desired file name.
 
 ## How To Install
 
