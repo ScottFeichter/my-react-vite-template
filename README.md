@@ -1,7 +1,5 @@
 # My React Vite Template
 
-## This Is A React Vite Template
-
 Use it as a starting point.
 
 ## How To Clone
