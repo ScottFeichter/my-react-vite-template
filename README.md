@@ -4,6 +4,8 @@ Use it as a starting point.
 
 ## How To Clone
 
+In desired directory run:
+
 ```sh
 npx tiged https://github.com/ScottFeichter/my-react-vite-template.git react-vite-template
 ```
@@ -12,7 +14,7 @@ npx tiged https://github.com/ScottFeichter/my-react-vite-template.git react-vite
 
 ## How To Track
 
-From root run `git init` `git add .` `git commit -m "initial"`
+From root run:
 
 ```sh
 git init
@@ -24,7 +26,7 @@ git commit -m "initial"
 
 ## How To Install
 
-From root run `npm install`
+From root run:
 
 ```sh
 npm install
@@ -32,7 +34,7 @@ npm install
 
 ## How To Run
 
-From root run `npm run dev`
+From root run:
 
 ```sh
 npm run dev
