@@ -91,9 +91,7 @@ git add .
 git commit -m "completed setup"
 ```
 
-## Here is some info from the previous README.md
-
-### React + Vite
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
