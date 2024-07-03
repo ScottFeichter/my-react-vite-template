@@ -44,6 +44,6 @@ You should see `Hello from App`
 
 ## Change or convert files
 
-__index.html__ change `title` \
-__package.json__ change `"name"` \
-__README.md__ customize to the project \
+__index.html__:  change `title` \
+__package.json__: change `"name"` \
+__README.md__: customize to the project \
