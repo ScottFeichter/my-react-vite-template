@@ -17,7 +17,7 @@ From root run `git init` `git add .` `git commit -m "initial"`
 ```sh
 git init
 git add .
-git commit \-m \"initial\"
+git commit -m "initial"
 ```
 
 - .gitignore already provided in the clone.
