@@ -47,7 +47,7 @@ Might also read as `Local: http://localhost:5173/`
 
 ## Open a browser
 
-[Open a browser to](`http://localhost:5173`)
+[Open a browser to](http://localhost:5173)
 
 (Or type `o` in the terminal where Vite is running)
 
