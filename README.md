@@ -45,7 +45,7 @@ VITE v4.5.0  ready in 592 ms
 ```
 Might also read as `Local: http://localhost:5173/`
 
-## Open a browser
+## Open running app in browser
 
 [http://localhost:5173](http://localhost:5173)
 
