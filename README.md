@@ -38,7 +38,7 @@ Might also read as `Local: http://localhost:5173/`
 
 Open a browser to [http://localhost:5173].
 
-(Typing `o` in the terminal where Vite is running opens a browser window to that address.)
+(Or type `o` in the terminal where Vite is running)
 
 You should see `Hello from App`
 
