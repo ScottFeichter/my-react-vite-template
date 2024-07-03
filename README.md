@@ -5,7 +5,7 @@ Use it as a starting point.
 ## How To Clone
 
 ```sh
-npx tiged ScottFeichter/my-react-vite-template#main react-vite-template
+npx tiged https://github.com/ScottFeichter/my-react-vite-template.git
 ```
 
 - This clones repo main branch in the directory where it is run.
