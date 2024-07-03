@@ -8,7 +8,7 @@ Use it as a starting point.
 npx tiged ScottFeichter/my-react-vite-template#main react-vite-template
 ```
 
-- This clones of repo main branch under the name in the directory where it is run.
+- This clones repo main branch in the directory where it is run.
 
 ## How To Install
 
