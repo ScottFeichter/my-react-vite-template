@@ -5,7 +5,7 @@
 ## How to clone
 
 ```sh
-npx tiged ScottFeichter/my-react-vite-template#main <new-project-name>
+npx tiged ScottFeichter/my-react-vite-template#main react-vite-template
 ```
 
 This clones of repo main branch under the name in the directory where it is run.
@@ -59,4 +59,13 @@ __index.html__:  change `title` \
 __package.json__: change `"name"` \
 __README.md__: customize to the project
 
+## Here is some info from the previous README.md
 
+### React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
