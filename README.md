@@ -24,7 +24,7 @@ git commit -m "initial"
 
 ## How To Install
 
-From root run `npm install`.
+From root run `npm install`
 
 ```sh
 npm install
@@ -32,7 +32,7 @@ npm install
 
 ## How To Run
 
-From root run `npm run dev`.
+From root run `npm run dev`
 
 ```sh
 npm run dev
