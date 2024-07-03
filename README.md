@@ -26,11 +26,11 @@ From root run `npm run dev`.
 npm run dev
 ```
 
-This runs the `dev` script from your __package.json__;
+- This runs the `dev` script from your __package.json__;
 
-You will run this command whenever you want to start your app.
+- You will run this command whenever you want to start your app.
 
-To end the app press ctr + c in shell
+- To end the app press ctr + c in shell
 
 ## Running App
 
@@ -43,7 +43,7 @@ VITE v4.5.0  ready in 592 ms
   ➜  Network: use --host to expose
   ➜  press h to show help
 ```
-Might also read as `Local: http://localhost:5173/`
+- Might also read as `Local: http://localhost:5173/`
 
 ## Open Running App In Browser
 
@@ -51,13 +51,13 @@ Might also read as `Local: http://localhost:5173/`
 
 (Or type `o` in the terminal where Vite is running)
 
-You should see `Hello from App`
+- You should see `Hello from App`
 
 ## Change Or Convert Files
 
-__index.html__:  change `title` \
+__index.html__  : change `title` \
 __package.json__: change `"name"` \
-__README.md__: customize to the project
+__README.md__   : customize to the project
 
 ## Here is some info from the previous README.md
 
