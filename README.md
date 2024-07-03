@@ -1,8 +1,10 @@
 # My React Vite Template
 
-## This is a React Vite Template
+## This Is A React Vite Template
 
-## How to clone
+Use it as a starting point.
+
+## How To Clone
 
 ```sh
 npx tiged ScottFeichter/my-react-vite-template#main react-vite-template
@@ -10,7 +12,7 @@ npx tiged ScottFeichter/my-react-vite-template#main react-vite-template
 
 This clones of repo main branch under the name in the directory where it is run.
 
-## How to install
+## How To Install
 
 From root run `npm install`.
 
@@ -18,7 +20,7 @@ From root run `npm install`.
 npm install
 ```
 
-## How to run
+## How To Run
 
 From root run `npm run dev`.
 
@@ -45,7 +47,7 @@ VITE v4.5.0  ready in 592 ms
 ```
 Might also read as `Local: http://localhost:5173/`
 
-## Open running app in browser
+## Open Running App In Browser
 
 [http://localhost:5173](http://localhost:5173)
 
@@ -53,7 +55,7 @@ Might also read as `Local: http://localhost:5173/`
 
 You should see `Hello from App`
 
-## Change or convert files
+## Change Or Convert Files
 
 __index.html__:  change `title` \
 __package.json__: change `"name"` \
