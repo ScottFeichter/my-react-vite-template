@@ -69,9 +69,12 @@ VITE v4.5.0  ready in 592 ms
 
 ## Change Or Convert Files
 
-__index.html__  : change `title` \
-__package.json__: change `"name"` \
-__README.md__   : customize to the project
+__index.html__
+- change `title`
+__package.json__
+- change `"name"`
+__README.md__
+- customize to the project
 
 ## Here is some info from the previous README.md
 
