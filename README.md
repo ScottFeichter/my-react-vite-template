@@ -26,7 +26,7 @@ From root run `npm run dev`.
 npm run dev
 ```
 
-- This runs the `dev` script from your __package.json__;
+- This runs the `dev` script from your __package.json__.
 
 - You will run this command whenever you want to start your app.
 
