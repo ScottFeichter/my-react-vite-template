@@ -10,7 +10,7 @@ npx tiged https://github.com/ScottFeichter/my-react-vite-template.git react-vite
 
 - This clones repo main branch in the directory where it is run.
 
-## GIT Tracking
+## How To Track
 
 From root run `git init` `git add .` `git commit -m "initial"`
 
