@@ -20,7 +20,7 @@ git add .
 git commit \-m \"initial\"
 ```
 
-- Clone has .gitignore but it is not an initialized repo until above commands ran. 
+- .gitignore already provided in the clone.
 
 ## How To Install
 
