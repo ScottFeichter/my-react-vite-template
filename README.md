@@ -93,7 +93,11 @@ git commit -m "completed setup"
 
 ## React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides a minimal setup to get React working in Vite.
+
+- Configures for HMR and some ESLint rules.
+
+## Plugins
 
 Currently, two official plugins are available:
 
