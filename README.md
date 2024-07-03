@@ -12,7 +12,7 @@ npx tiged https://github.com/ScottFeichter/my-react-vite-template.git react-vite
 
 ## GIT Tracking
 
-There is a .gitignore but it is not an initialized repo. \
+There is a .gitignore but it is not an initialized repo. 
 
 From root run `git init` `git add .` `git commit -m "initial"`
 
