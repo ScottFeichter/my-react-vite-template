@@ -10,18 +10,29 @@ npx tiged ScottFeichter/my-react-vite-template#main <new-project-name>
 
 This clones of repo main branch under the name in the directory where it is run.
 
-## How to install and run
+## How to install
 
-Be sure to be in correct folder and run `npm install` and `npm run dev`.
+From root run `npm install`.
 
 ```sh
-cd my-react-vite-template
 npm install
+```
+
+## How to run
+
+From root run `npm run dev`.
+
+```sh
 npm run dev
 ```
 
-`npm run dev` runs the `dev` script from your __package.json__; you will run
-this command whenever you want to start your app.
+This runs the `dev` script from your __package.json__;
+
+You will run this command whenever you want to start your app.
+
+To end the app press ctr + c in shell
+
+## Running App
 
 When it runs, you should see something like this in the terminal:
 
@@ -48,4 +59,4 @@ __index.html__:  change `title` \
 __package.json__: change `"name"` \
 __README.md__: customize to the project
 
-testtest
+testtesttest
