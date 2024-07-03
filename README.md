@@ -10,6 +10,18 @@ npx tiged https://github.com/ScottFeichter/my-react-vite-template.git react-vite
 
 - This clones repo main branch in the directory where it is run.
 
+## GIT Tracking
+
+There is a .gitignore but it is not an initialized repo. \
+
+From root run `git init` `git add .` `git commit -m "initial"`
+
+```sh
+git init
+git add .
+git commit \-m \"initial\"
+```
+
 ## How To Install
 
 From root run `npm install`.
