@@ -47,7 +47,7 @@ VITE v4.5.0  ready in 592 ms
 
 ## Open Running App In Browser
 
-[http://localhost:5173](http://localhost:5173) Or type `o` in running shell.
+[http://localhost:5173](http://localhost:5173) (Or type `o` in running shell)
 
 - You should see `Hello from App`
 
