@@ -30,7 +30,7 @@ npm run dev
 
 - You will run this command whenever you want to start your app.
 
-- To end the app press ctr + c in shell
+- To end the app press ctr + c in running shell.
 
 ## Running App
 
