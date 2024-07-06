@@ -66,7 +66,7 @@ VITE v4.5.0  ready in 592 ms
 
 ## Open Running App In Browser
 
-[http://localhost:5173](http://localhost:5173)
+In browser navigate to: [http://localhost:5173](http://localhost:5173)
 
 - Or type `o` in the running shell
 
