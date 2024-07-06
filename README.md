@@ -4,7 +4,7 @@
 
 This template provides a minimal setup to get React working in Vite.
 
-- For example it configures for HMR and some ESLint rules.
+- For example it is configured for HMR and some ESLint rules.
 
 ## How To Clone
 
