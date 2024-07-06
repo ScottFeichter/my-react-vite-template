@@ -14,7 +14,7 @@ In desired directory run:
 npx tiged https://github.com/ScottFeichter/my-react-vite-template.git react-vite-template
 ```
 
-- This clones repo main branch in the directory where it is run.
+- Clones the repo main branch in the directory where it is run.
 
 ## How To Track
 
@@ -52,7 +52,7 @@ npm run dev
 
 ## Running App
 
-When it runs, you should see something like this in the terminal:
+When it runs, you should see something like this in the shell:
 
 ```bash
 VITE v4.5.0  ready in 592 ms
@@ -61,13 +61,13 @@ VITE v4.5.0  ready in 592 ms
   ➜  Network: use --host to expose
   ➜  press h to show help
 ```
-- Might also read as `Local: http://localhost:5173/`
+- You might see `Local: http://localhost:5173/` instead of `Local: http://127.0.0.1:5173/`
 
 ## Open Running App In Browser
 
 [http://localhost:5173](http://localhost:5173)
 
-- Or type `o` in running shell
+- Or type `o` in the running shell
 
   - You should see `Hello from App`
 
