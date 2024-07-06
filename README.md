@@ -93,12 +93,11 @@ __README.md__
 - customize to your project
 
 
-## How To Track
+## Commit Changes
 
 From root run:
 
 ```sh
-git init
 git add .
 git commit -m "completed setup"
 ```
