@@ -1,6 +1,10 @@
 # My React Vite Template
 
-Use it as a starting point.
+## React + Vite
+
+This template provides a minimal setup to get React working in Vite.
+
+- For example it configures for HMR and some ESLint rules.
 
 ## How To Clone
 
@@ -90,12 +94,6 @@ git init
 git add .
 git commit -m "completed setup"
 ```
-
-## React + Vite
-
-This template provides a minimal setup to get React working in Vite.
-
-- Configures for HMR and some ESLint rules.
 
 ## Plugins
 
