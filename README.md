@@ -62,6 +62,7 @@ VITE v4.5.0  ready in 592 ms
   ➜  press h to show help
 ```
 - You might see `Local: http://localhost:5173/` instead.
+
 - This resolves to http://127.0.0.1:5173/ no problem.
 
 ## Open Running App In Browser
