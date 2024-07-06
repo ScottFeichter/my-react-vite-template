@@ -72,7 +72,12 @@ In browser navigate to: [http://localhost:5173](http://localhost:5173)
 
   - You should see `Hello from App`
 
-## Change Or Convert Files
+
+## Change Some Details
+
+__react-vite-template__
+
+- change the name of the parent directory
 
 __index.html__
 
@@ -84,7 +89,8 @@ __package.json__
 
 __README.md__
 
-- customize to the project
+- customize to your project
+
 
 ## How To Track
 
