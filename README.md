@@ -61,7 +61,7 @@ VITE v4.5.0  ready in 592 ms
   ➜  Network: use --host to expose
   ➜  press h to show help
 ```
-- You might see a different `Local: http://localhost:5173/`
+- You might see a `Local: http://localhost:5173/`.
 - This resolves to http://127.0.0.1:5173/ no problem.
 
 ## Open Running App In Browser
